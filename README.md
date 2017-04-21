@@ -20,7 +20,7 @@ To install this script, simply run the install.sh via command line:
 ### Using update
 After installing, you can simply type the command in your terminal:
 
-    'update'
+    `update`
 
 You will be prompted to enter in your password in order to update.
 By default, it does not do O.S. updates as those are reccomended to be
